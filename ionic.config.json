@@ -1,0 +1,7 @@
+{
+  "name": "dado",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
